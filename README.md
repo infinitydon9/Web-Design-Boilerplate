@@ -17,7 +17,7 @@ In order to use this boilerplate, firstly clone the repository and then run comm
 
 	npm install
 
-This will intall all the node package. For Gulp you can use following commands
+This will install all the node packages and dependencies. For Gulp you can use following commands
    
     gulp    
     // Default : Will perform all the tasks mentioned in the gulp file
