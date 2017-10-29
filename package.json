@@ -1,0 +1,24 @@
+{
+  "name": "klickit",
+  "version": "1.0.0",
+  "description": "website for clickit solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "popper.js": "^1.12.3"
+  },
+  "peerDependencies": {
+    "jquery": ">=1.9.1",
+    "popper.js": "^1.11.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
