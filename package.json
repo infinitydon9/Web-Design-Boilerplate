@@ -1,7 +1,7 @@
 {
-  "name": "klickit",
+  "name": "webdesign",
   "version": "1.0.0",
-  "description": "website for clickit solution",
+  "description": "Boilerplate for basic web design setup",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
